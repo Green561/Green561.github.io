@@ -50,9 +50,9 @@ h1 {
     padding:10px;
     margin:15px;
     margin-bottom:30px;
-    background: #0d0d0d;
+    background: #58b6a6;
     border-radius:5px;
-    box-shadow:5px 8px #bf00ff;
+    box-shadow:5px 8px #003747;
     display: block;
     margin: auto;
 }
@@ -68,7 +68,7 @@ h1 {
 }
 
 h2 {
-    color: #bf00ff;
+    color: #daf4f0;
     text-align: center;
     flex-wrap: wrap;
 }
@@ -85,7 +85,7 @@ h2 {
     margin-bottom:30px;
     background:#0d0d0d;
     border-radius:5px;
-    box-shadow:5px 8px #bf00ff;
+    box-shadow:5px 8px #003747;
 }
 
 .hack img {
