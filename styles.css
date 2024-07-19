@@ -1,4 +1,115 @@
-main
+body 
 {
+   background-image: url("image/Screenshot 2024-01-11 100218.png");
+   background-size: cover;
+   background-repeat:repeat -y;
+}
+.sidenav {
+  width: 130px;
+  position: fixed;
+  z-index: 1;
+  top: 20px;
+  left: 10px;
+  background: #0d0d0d;
+  overflow-x: hidden;
+  padding: 8px 0;
+}
 
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #bf00ff;
+  display: block;
+}
+
+.sidenav a:hover {
+  color: #2196F3;
+}
+
+.main {
+  margin-left: 140px; /* Same width as the sidebar + left position in px */
+  font-size: 28px; /* Increased text to enable scrolling */
+  padding: 0px 10px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+h1 {
+    color: #0d0d0d;
+    font-size: 25px;
+    text-align: center;
+}
+
+.start {
+    width:650px;
+    padding:10px;
+    margin:15px;
+    margin-bottom:30px;
+    background: #0d0d0d;
+    border-radius:5px;
+    box-shadow:5px 8px #bf00ff;
+    display: block;
+    margin: auto;
+}
+
+.start pic {
+    width: 320px;
+    height: 200px;
+    border: 2px solid white;
+    margin-right: 20px;
+    border-radius: 5px;
+    display: block;
+    margin: auto;
+}
+
+h2 {
+    color: #bf00ff;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+.hacks {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.hack {
+    width:450px;
+    padding:10px;
+    margin:15px;
+    margin-bottom:30px;
+    background:#0d0d0d;
+    border-radius:5px;
+    box-shadow:5px 8px #bf00ff;
+}
+
+.hack img {
+    width: 360px;
+    height: 200px;
+    border: 2px solid darkslateblue;
+    margin-right: 10px;
+    border-radius: 5px;
+    display: block;
+    margin: auto;
+}
+
+.download {
+    padding:2px;
+    background:#bf00ff;
+    border-radius:5px;
+    box-shadow:5px 8px #0d0d0d;
+}
+
+.describe {
+    height: 100px;
+}
+
+p {
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: 700;
+   color: #bf00ff;
 }
