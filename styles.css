@@ -83,7 +83,7 @@ h2 {
     padding:10px;
     margin:15px;
     margin-bottom:30px;
-    background:#0d0d0d;
+    background:#58b6a6;
     border-radius:5px;
     box-shadow:5px 8px #003747;
 }
@@ -100,7 +100,7 @@ h2 {
 
 .download {
     padding:2px;
-    background:#bf00ff;
+    background:#1aa780;
     border-radius:5px;
     box-shadow:5px 8px #0d0d0d;
 }
@@ -113,5 +113,5 @@ p {
     font-family: sans-serif;
     text-align: center;
     font-weight: 700;
-   color: #bf00ff;
+   color: #daf4f0;
 }
