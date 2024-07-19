@@ -8,9 +8,9 @@ body
   width: 180px;
   position: fixed;
   z-index: 1;
-  top: 20px;
+  top: 10px;
   left: 10px;
-  background: #ffffff;
+  background: #003747;
   border-radius:5px;
   overflow-x: hidden;
   padding: 8px 0;
