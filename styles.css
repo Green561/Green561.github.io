@@ -89,8 +89,8 @@ h2 {
 }
 
 .hack img {
-    width: 360px;
-    height: 200px;
+    width: 256px;
+    height: 224px;
     border: 2px solid darkslateblue;
     margin-right: 10px;
     border-radius: 5px;
