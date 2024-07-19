@@ -40,7 +40,7 @@ body
   .sidenav a {font-size: 18px;}
 }
 h1 {
-    color: #0d0d0d;
+    color: #daf4f0;
     font-size: 25px;
     text-align: center;
 }
@@ -91,7 +91,7 @@ h2 {
 .hack img {
     width: 256px;
     height: 224px;
-    border: 2px solid darkslateblue;
+    border: 2px solid aquamarine;
     margin-right: 10px;
     border-radius: 5px;
     display: block;
