@@ -1,6 +1,6 @@
 body 
 {
-   background-image: url("image/pattern.png");
+   background-image: url("image/checker.png");
    image-rendering: crisp-edges;
    background-size: cover;
    background-repeat:repeat -y;
