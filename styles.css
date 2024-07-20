@@ -57,10 +57,10 @@ h1 {
     margin: auto;
 }
 
-.start img {
-    width: 50px;
+.start pic {
+    width: 300px;
     height: 200px;
-    border: 2px solid white;
+    border: 2px solid aquamarine;
     margin-right: 20px;
     border-radius: 5px;
     display: block;
