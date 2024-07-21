@@ -108,6 +108,12 @@ h2 {
     height: 100px;
 }
 
+.galleries {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
 .gallery {
     width:450px;
     padding:10px;
