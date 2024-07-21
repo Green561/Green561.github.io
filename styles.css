@@ -119,7 +119,6 @@ h2 {
 }
 
 .gallery img {
-    width:256px;
     height:256px;
     border: 2px solid aquamarine;
     margin-right: 10px;
