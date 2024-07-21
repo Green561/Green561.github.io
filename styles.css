@@ -76,6 +76,7 @@ h2 {
 .hacks {
     display: flex;
     flex-wrap: wrap;
+   flex-direction: row;
 }
 
 .hack {
