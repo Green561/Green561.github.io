@@ -135,7 +135,7 @@ h2 {
 }
 .music {
   width: 100px;
-  height: 25px;
+  height: 30px;
   position: fixed;
   z-index: 1;
   right: 10px;
@@ -144,7 +144,6 @@ h2 {
   border-radius:5px;
   overflow-x: hidden;
   padding: 8px 0;
-  margin: auto;
 }
 
 p {
