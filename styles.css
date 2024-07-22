@@ -138,8 +138,8 @@ h2 {
   height: 100px;
   position: fixed;
   z-index: 1;
-  top: 10px;
   right: 10px;
+  top: 10px;
   background: #003747;
   border-radius:5px;
   overflow-x: hidden;
