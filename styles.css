@@ -133,6 +133,25 @@ h2 {
     margin: auto;
 }
 
+.saltys stupid image {
+    width:450px;
+    padding:10px;
+    margin:15px;
+    margin-bottom:30px;
+    background:#58b6a6;
+    border-radius:5px;
+    box-shadow:5px 8px #003747;
+}
+
+.saltys stupid image img {
+    height:230px;
+    border: 2px solid aquamarine;
+    margin-right: 10px;
+    border-radius: 5px;
+    display: block;
+    margin: auto;
+}
+
 p {
     font-family: sans-serif;
     text-align: center;
