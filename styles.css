@@ -131,6 +131,7 @@ h2 {
     border-radius: 5px;
     display: block;
     margin: auto;
+    align-items: center;
 }
 
 p {
