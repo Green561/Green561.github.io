@@ -125,26 +125,7 @@ h2 {
 }
 
 .gallery img {
-    height:256px;
-    border: 2px solid aquamarine;
-    margin-right: 10px;
-    border-radius: 5px;
-    display: block;
-    margin: auto;
-}
-
-.saltystupidimage {
-    width:450px;
-    padding:10px;
-    margin:15px;
-    margin-bottom:30px;
-    background:#58b6a6;
-    border-radius:5px;
-    box-shadow:5px 8px #003747;
-}
-
-.saltysstupidimage img {
-    height:230px;
+    width:256px;
     border: 2px solid aquamarine;
     margin-right: 10px;
     border-radius: 5px;
