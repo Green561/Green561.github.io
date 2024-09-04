@@ -53,6 +53,7 @@ h1 {
     border-radius:5px;
     display: block;
     margin: auto;
+    float: right;
 }
 
 .Creature img {
