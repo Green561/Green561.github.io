@@ -73,12 +73,12 @@ h2 {
     flex-wrap: wrap;
 }
 
-.hacks {
+.paragraphs {
     display: flex;
     flex-wrap: wrap;
 }
 
-.hack {
+.paragraph {
     width:450px;
     padding:10px;
     margin:15px;
