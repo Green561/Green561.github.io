@@ -54,6 +54,7 @@ h1 {
     display: block;
     margin: auto;
     float: right;
+    flex-grow:0;
 }
 
 .Creature img {
