@@ -81,14 +81,17 @@ h2 {
 .paragraph {
     width:1000px;
     padding:10px;
-    margin:15px;
+    margin:30px;
     margin-bottom:30px;
-    background:#58b6a6;
-    border: 2px solid red
+    background: #2b0000;
+    border: 2px solid red;
     border-radius:5px;
+    display: block;
+    margin: auto;
+    float: left;
 }
 
-.hack img {
+.paragraph img {
     width: 256px;
     height: 224px;
     border: 2px solid aquamarine;
