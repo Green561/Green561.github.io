@@ -43,7 +43,7 @@ h1 {
     text-align: center;
 }
 
-.start {
+.Header Info {
     width:600px;
     padding:10px;
     margin:30px;
@@ -53,6 +53,8 @@ h1 {
     border-radius:5px;
     display: block;
     margin: auto;
+    display: flex;
+    align-items: right;
 }
 
 .start img {
