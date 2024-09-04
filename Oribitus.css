@@ -1,6 +1,6 @@
 body 
 {
-   background-image: url("image/checker.png");
+   background: linear-gradient(90deg, rgba(121,9,9,1) 0%, rgba(0,0,0,1) 100%);
    image-rendering: crisp-edges;
    background-size: cover;
    background-repeat:repeat -y;
