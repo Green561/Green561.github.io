@@ -79,7 +79,7 @@ h2 {
 }
 
 .paragraph {
-    width:1000px;
+    min-width:50px;
     padding:10px;
     margin:30px;
     margin-bottom:30px;
@@ -89,6 +89,7 @@ h2 {
     display: block;
     margin: auto;
     float: left;
+    flex-grow:1;
 }
 
 .paragraph img {
