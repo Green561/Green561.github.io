@@ -18,7 +18,7 @@ body
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 20px;
-  color: #daf4f0;
+  color: #ffd4d4;
   display: block;
 }
 
@@ -37,7 +37,7 @@ body
   .sidenav a {font-size: 18px;}
 }
 h1 {
-    color: ##ffd4d4;
+    color: #ffd4d4;
     font-family: "Helvetica", sans-serif;
     font-size: 25px;
     text-align: center;
