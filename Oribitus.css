@@ -48,6 +48,7 @@ h1 {
     margin:30px;
     margin-bottom:30px;
     background: #000000;
+    border: 2px solid red;
     border-radius:5px;
     display: block;
     margin: auto;
