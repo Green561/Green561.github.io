@@ -47,7 +47,7 @@ h1 {
     padding:10px;
     margin:30px;
     margin-bottom:30px;
-    background: #0000aa;
+    background: #2b0000;
     border: 2px solid red;
     border-radius:5px;
     display: block;
@@ -65,7 +65,7 @@ h1 {
 }
 
 h2 {
-    color: #daf4f0;
+    color: #ff0000;
     text-align: center;
     flex-wrap: wrap;
 }
