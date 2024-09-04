@@ -54,7 +54,7 @@ h1 {
     border-radius:5px;
     display: block;
     margin: auto;
-    margin-left: 20px;
+    margin-left: 10px;
     float: right;
     flex-grow:0;
 }
