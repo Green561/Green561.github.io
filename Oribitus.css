@@ -1,0 +1,154 @@
+body 
+{
+   background-image: url("image/checker.png");
+   image-rendering: crisp-edges;
+   background-size: cover;
+   background-repeat:repeat -y;
+}
+.sidenav {
+  width: 140px;
+  position: fixed;
+  z-index: 1;
+  top: 10px;
+  left: 10px;
+  background: #003747;
+  border-radius:5px;
+  overflow-x: hidden;
+  padding: 8px 0;
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  color: #daf4f0;
+  display: block;
+}
+
+.sidenav a:hover {
+  color: #93cec3;
+}
+
+.main {
+  margin-left: 140px; /* Same width as the sidebar + left position in px */
+  font-size: 28px; /* Increased text to enable scrolling */
+  padding: 0px 10px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+h1 {
+    color: #daf4f0;
+    font-size: 25px;
+    text-align: center;
+}
+
+.start {
+    width:600px;
+    padding:10px;
+    margin:30px;
+    margin-bottom:30px;
+    background: #58b6a6;
+    border-radius:5px;
+    box-shadow:5px 8px #003747;
+    display: block;
+    margin: auto;
+}
+
+.start img {
+    width: 400px;
+    height: 300px;
+    border: 2px solid aquamarine;
+    margin-right: 20px;
+    border-radius: 5px;
+    display: block;
+    margin: auto;
+}
+
+h2 {
+    color: #daf4f0;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+.hacks {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.hack {
+    width:450px;
+    padding:10px;
+    margin:15px;
+    margin-bottom:30px;
+    background:#58b6a6;
+    border-radius:5px;
+    box-shadow:5px 8px #003747;
+}
+
+.hack img {
+    width: 256px;
+    height: 224px;
+    border: 2px solid aquamarine;
+    margin-right: 10px;
+    border-radius: 5px;
+    display: block;
+    margin: auto;
+}
+
+.download {
+    padding:2px;
+    background:#1aa780;
+    border-radius:5px;
+}
+
+.describe {
+    height: 100px;
+}
+
+.galleries {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.gallery {
+    width:450px;
+    padding:10px;
+    margin:15px;
+    margin-bottom:30px;
+    background:#58b6a6;
+    border-radius:5px;
+    box-shadow:5px 8px #003747;
+}
+
+.gallery img {
+    width:425px;
+    border: 2px solid aquamarine;
+    margin-right: 10px;
+    border-radius: 5px;
+    display: block;
+    margin: auto;
+    align-items: center;
+}
+.music {
+  width: 100px;
+  height: 50px;
+  position: fixed;
+  z-index: 1;
+  right: 10px;
+  top: 10px;
+  background: #003747;
+  border-radius:5px;
+  overflow-x: hidden;
+  padding: 8px 0;
+}
+
+p {
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: 700;
+   color: #daf4f0;
+}
