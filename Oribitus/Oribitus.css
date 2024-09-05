@@ -52,6 +52,35 @@ body {
     padding: 8px;
 }
 
+h1 {
+    color: #ffd4d4;
+    font-family: "Helvetica", sans-serif;
+    font-size: 13px;
+    
+    text-align: center;
+}
+
+h2 {
+    color: #ff5555;
+    font-family: "Arial", sans-serif;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+p {
+    font-family: sans-serif;
+    text-align: left;
+    font-weight: 450;
+   color: #ffd4d4;
+}
+
+h {
+    font-family: sans-serif;
+    text-align: left;
+    font-weight: 700;
+   color: #ffd4d4;
+}
+
 /* Portrait Mode Specific Adjustments */
 @media screen and (max-width: 600px) and (orientation: portrait) {
     .Creature {
