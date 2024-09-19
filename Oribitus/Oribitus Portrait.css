@@ -137,3 +137,19 @@ h {
         width: 120px;
     }
 }
+
+a:link {
+  color: red;
+}
+
+a:visited {
+  color: red;
+}
+
+a:hover {
+  color: #ffaaaa;
+}
+
+a:active {
+  color: white;
+}
