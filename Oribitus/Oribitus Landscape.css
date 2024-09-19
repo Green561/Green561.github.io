@@ -166,3 +166,19 @@ h {
     font-weight: 700;
    color: #ffd4d4;
 }
+
+a:link {
+  color: red;
+}
+
+a:visited {
+  color: red;
+}
+
+a:hover {
+  color: #ffaaaa;
+}
+
+a:active {
+  color: white;
+}
