@@ -155,20 +155,16 @@ p {
    color: #daf4f0;
 a:link {
   color: #03ffbc;
-   font-family: sans-serif;
 }
 
 a:visited {
   color: #03ffbc;
-   font-family: sans-serif;
 }
 
 a:hover {
   color: white;
-   font-family: sans-serif;
 }
 
 a:active {
   color: white;
-   font-family: sans-serif;
 }
