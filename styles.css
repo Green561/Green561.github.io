@@ -154,11 +154,11 @@ p {
     font-weight: 700;
    color: #daf4f0;
 a:link {
-  color: #03ffbc;
+  color: black;
 }
 
 a:visited {
-  color: #03ffbc;
+  color: black;
 }
 
 a:hover {
