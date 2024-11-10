@@ -147,17 +147,6 @@ h2 {
   overflow-x: hidden;
   padding: 8px 0;
 }
-
-.video {
-    width:425px;
-    border: 2px solid aquamarine;
-    margin-right: 10px;
-    border-radius: 5px;
-    display: block;
-    margin: auto;
-    align-items: center;
-}
-
 p {
     font-family: sans-serif;
     text-align: center;
