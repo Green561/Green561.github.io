@@ -1,6 +1,6 @@
 body 
 {
-   background: rgba(20,0,0,1)
+   background: rgba(20,20,20,1)
 }
 .Return {
   width: 140px;
@@ -70,7 +70,7 @@ h1 {
 }
 
 h2 {
-    color: #ffffff;
+    color: white;
     font-family: "Arial", sans-serif;
     text-align: center;
     flex-wrap: wrap;
@@ -160,6 +160,7 @@ p {
     text-align: left;
     font-weight: 450;
     color: white;
+    text-align: center;
 }
 
 h {
