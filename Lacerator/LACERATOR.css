@@ -70,7 +70,7 @@ h1 {
 }
 
 h2 {
-    color: #ff5555;
+    color: #ffffff;
     font-family: "Arial", sans-serif;
     text-align: center;
     flex-wrap: wrap;
@@ -79,6 +79,7 @@ h2 {
 .paragraphs {
     display: flex;
     flex-wrap: wrap;
+    text-align: center;
 }
 
 .paragraph {
@@ -93,6 +94,7 @@ h2 {
     margin: auto;
     float: left;
     flex-grow:1;
+    text-align: center;
 }
 
 .paragraph img {
