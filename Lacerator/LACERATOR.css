@@ -24,7 +24,7 @@ body
 }
 
 .Return a:hover {
-  color: #ffffff;
+  color: white;
 }
 
 .main {
@@ -41,7 +41,6 @@ h1 {
     color: #ffd4d4;
     font-family: "Helvetica", sans-serif;
     font-size: 13px;
-    
     text-align: center;
 }
 
