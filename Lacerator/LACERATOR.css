@@ -80,7 +80,7 @@ h2 {
 .paragraph img {
     width: 256px;
     height: 224px;
-    border: 2px solid aquamarine;
+    border: 2px solid red;
     margin-right: 10px;
     border-radius: 5px;
     display: block;
