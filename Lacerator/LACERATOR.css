@@ -152,20 +152,16 @@ h {
 
 a:link {
   color: red;
-  text-align: center;
 }
 
 a:visited {
   color: red;
-  text-align: center;
 }
 
 a:hover {
   color: white;
-  text-align: center;
 }
 
 a:active {
   color: white;
-  text-align: center;
 }
