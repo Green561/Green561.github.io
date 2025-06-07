@@ -38,7 +38,6 @@ h1 {
     border: 2px solid red;
     border-radius:5px;
     display: block;
-    margin: auto;
     margin-left: 10px;
     float: right;
     flex-grow:0;
@@ -74,9 +73,7 @@ h2 {
     margin-bottom:30px;
     background: #000000D9;
     border: 2px solid white;
-    border-radius:5px;
     display: block;
-    margin: auto;
     float: center;
     flex-grow:1;
     text-align: center;
