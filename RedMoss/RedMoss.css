@@ -5,7 +5,11 @@
 
 body 
 {
-   color: #000000;
+   background-image: url("BG.png");
+   image-rendering: crisp-edges;
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
 }
 
 .main {
