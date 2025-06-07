@@ -1,0 +1,172 @@
+@font-face {
+  font-family: Font;
+  src: url(Font.ttf);
+}
+
+body 
+{
+   background-image: url("BG.png");
+   image-rendering: crisp-edges;
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+}
+
+.main {
+  margin-left: 140px; /* Same width as the sidebar + left position in px */
+  font-size: 28px; /* Increased text to enable scrolling */
+  padding: 0px 10px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+h1 {
+    color: #ffd4d4;
+    font-family: Font;
+    font-size: 13px;
+    text-align: center;
+}
+
+.Creature {
+    width:400px;
+    padding:10px;
+    margin:30px;
+    margin-bottom:30px;
+    background: #2b0000;
+    border: 2px solid red;
+    border-radius:5px;
+    display: block;
+    margin: auto;
+    margin-left: 10px;
+    float: right;
+    flex-grow:0;
+}
+
+.Creature img {
+    width: 300px;
+    border: 2px solid red;
+    margin-right: 20px;
+    border-radius: 5px;
+    display: block;
+    margin: auto;
+}
+
+h2 {
+    color: white;
+    font-family: Font;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+.paragraphs {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.paragraph {
+    min-width:50px;
+    padding:10px;
+    margin:30px;
+    margin-top:30px;
+    margin-bottom:30px;
+    background: #000000D9;
+    border: 2px solid white;
+    border-radius:5px;
+    display: block;
+    margin: auto;
+    float: center;
+    flex-grow:1;
+    text-align: center;
+}
+
+.paragraph img {
+    width: 300px;
+    height: 300px;
+    border: 2px solid red;
+    margin-right: 10px;
+    border-radius: 5px;
+    display: block;
+    margin: auto;
+}
+
+.download {
+    padding:2px;
+    background:#1aa7BF;
+    border-radius:5px;
+}
+
+.describe {
+    height: 100px;
+}
+
+.galleries {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.gallery {
+    width:450px;
+    padding:10px;
+    margin:15px;
+    margin-bottom:30px;
+    background:#58b6a6;
+    border-radius:5px;
+    box-shadow:5px 8px #003747;
+}
+
+.gallery img {
+    width:425px;
+    border: 2px solid aquamarine;
+    margin-right: 10px;
+    border-radius: 5px;
+    display: block;
+    margin: auto;
+    align-items: center;
+}
+.music {
+  width: 100px;
+  height: 50px;
+  position: fixed;
+  z-index: 1;
+  right: 10px;
+  top: 10px;
+  background: #003747;
+  border-radius:5px;
+  overflow-x: hidden;
+  padding: 8px 0;
+}
+
+p {
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: 450;
+    color: white;
+    text-align: center;
+}
+
+h {
+    font-family: Font;
+    text-align: left;
+    font-weight: 700;
+   color: white;
+}
+
+a:link {
+  color: red;
+}
+
+a:visited {
+  color: red;
+}
+
+a:hover {
+  color: white;
+}
+
+a:active {
+  color: white;
+}
