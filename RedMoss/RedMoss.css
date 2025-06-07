@@ -23,9 +23,9 @@ body
   .sidenav a {font-size: 18px;}
 }
 h1 {
-    color: #ffd4d4;
+    color: solid black;
     font-family: Font;
-    font-size: 13px;
+    font-size: 20px;
     text-align: center;
 }
 
@@ -106,7 +106,7 @@ h2 {
 .Post img {
     width: 300px;
     height: 300px;
-    border: 2px solid white;
+    border: 2px solid black;
     margin-right: 10px;
     display: block;
     margin: auto;
