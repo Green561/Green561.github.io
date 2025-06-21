@@ -119,18 +119,24 @@ h2 {
 
 
 .gallery {
-    width:450px;
+    min-width:50px;
     padding:10px;
-    margin:15px;
+    margin:30px;
+    margin-top:30px;
     margin-bottom:30px;
-    background:#58b6a6;
+    background: #000000D9;
+    border: 2px solid white;
     border-radius:5px;
-    box-shadow:5px 8px #003747;
+    display: block;
+    margin: auto;
+    float: center;
+    flex-grow:1;
+    text-align: center;
 }
 
 .gallery img {
     width:425px;
-    border: 2px solid aquamarine;
+    border: 2px solid red;
     margin-right: 10px;
     border-radius: 5px;
     display: block;
