@@ -78,7 +78,7 @@ h2 {
     display: block;
     margin: auto;
     float: center;
-    flex-grow:1;
+    flex-grow:0;
     text-align: center;
 }
 
