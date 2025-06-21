@@ -72,8 +72,8 @@ h2 {
     margin:30px;
     margin-top:30px;
     margin-bottom:30px;
-    background: #000000FF;
-    border: 2px #000000FF;
+    background: #000000D9;
+    border: 2px solid white;
     border-radius:5px;
     display: block;
     margin: auto;
@@ -124,8 +124,8 @@ h2 {
     margin:30px;
     margin-top:30px;
     margin-bottom:30px;
-    background: #000000D9;
-    border: 2px solid white;
+    background: #00000000;
+    border: 2px solid #00000000;
     border-radius:5px;
     display: block;
     margin: auto;
