@@ -93,9 +93,19 @@ h2 {
 }
 
 .download {
-    padding:2px;
-    background:#1aa7BF;
+    min-width:50px;
+    padding:10px;
+    margin:30px;
+    margin-top:30px;
+    margin-bottom:30px;
+    background: #000000D9;
+    border: 2px solid white;
     border-radius:5px;
+    display: block;
+    margin: auto;
+    float: center;
+    flex-grow:1;
+    text-align: center;
 }
 
 .describe {
