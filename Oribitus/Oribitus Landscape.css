@@ -3,7 +3,7 @@ body
    background: rgba(20,0,0,1)
 }
 .Return {
-  width: 140px;
+  width: 120px;
   position: fixed;
   z-index: 1;
   bottom: 10px;
